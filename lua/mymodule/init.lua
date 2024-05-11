@@ -1,3 +1,3 @@
-require("autocommand")
-require("keymap")
-require("plugins")
+require("mymodule.autocommand")
+require("mymodule.keymap")
+require("mymodule.plugins")
